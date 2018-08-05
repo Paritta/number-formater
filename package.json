@@ -1,0 +1,13 @@
+{
+  "name": "ndm-created-project",
+  "description": "add-a-description",
+  "license": "add-a-license",
+  "respository": "add-a-repository",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  }
+}
